@@ -2,7 +2,7 @@
  * Binary Search program
  */
 
-package com.algo.test;
+package com.algo;
 
 public class BinarySearch {
 

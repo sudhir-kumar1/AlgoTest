@@ -7,7 +7,7 @@
  * 
  */
 
-package com.algo.test;
+package com.algo;
 
 import java.util.ArrayList;
 import java.util.Collections;
