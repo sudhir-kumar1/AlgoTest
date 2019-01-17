@@ -1,9 +1,8 @@
+package com.algo;
+
 /**
  * Binary Search program
  */
-
-package com.algo;
-
 public class BinarySearch {
 
 	public static void main(String[] args) {

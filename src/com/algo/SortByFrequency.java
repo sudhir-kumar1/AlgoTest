@@ -1,12 +1,3 @@
-/**
- * 
- * Sort elements by frequency (using Java Map)
- * 
- * Given an integer array, sort the array according to the frequency of elements in decreasing order, 
- * if frequency of two elements are same then sort in increasing order
- * 
- */
-
 package com.algo;
 
 import java.util.ArrayList;
@@ -16,6 +7,18 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * <p>
+ * Problem: Sort elements by frequency (using Java Map)
+ * </p>
+ * 
+ * <p>
+ * Given an integer array, sort the array according to the frequency of elements in decreasing order, 
+ * if frequency of two elements are same then sort in increasing order.
+ * </p>
+ * 
+ * {@link https://www.geeksforgeeks.org/sort-elements-by-frequency-set-5-using-java-map/ }
+ */
 public class SortByFrequency {
 
 	public static void main(String[] args) {
